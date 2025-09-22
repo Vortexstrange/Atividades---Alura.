@@ -50,6 +50,7 @@ if (fimDeSemana.includes(resposta)) {
   alert("Boa semana!")
 }
 
-//Imagino que essa mescla não sejá utilizada para otimização de códigos em larga escala, mas para é perfeito para o encerramento dessa atividade.
+//Imagino que essa mescla não sejá utilizada para otimização de códigos em larga escala, mas é perfeito para o encerramento dessa atividade.
 //Esse é meu resultado final da atividade. Foi um exercicio fácil, mas que me trouxe vários conhecimentos novos e muita curiosidade.
+
 
