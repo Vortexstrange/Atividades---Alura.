@@ -11,7 +11,7 @@ if (Resposta == 'Sábado' || Resposta == 'Sabado' || Resposta == 'Domingo') {
     alert('Boa semana!')
 }
 
-//Foi tranquilo, mas achei o código um tanto extenso e procurei uma forma de diminui-lo. No processso, encontrei duas alternativas:
+//Foi tranquilo, mas achei o código um tanto extenso e procurei uma forma de diminui-lo. No processso, encontrei três alternativas:
 //".trim().toLowerCase()" e ".includes()".
 
 // .includes();
@@ -52,3 +52,4 @@ if (fimDeSemana.includes(resposta)) {
 
 //Imagino que essa mescla não sejá utilizada para otimização de códigos em larga escala, mas para é perfeito para o encerramento dessa atividade.
 //Esse é meu resultado final da atividade. Foi um exercicio fácil, mas que me trouxe vários conhecimentos novos e muita curiosidade.
+
