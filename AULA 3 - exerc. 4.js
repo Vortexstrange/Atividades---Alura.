@@ -7,4 +7,5 @@ if(Senha == 2845) {
     alert("Senha incorreta")
 }
 
+//não pesquisei muito, está sendo um dia cansativo. Então, decidi apenas fazer o ordenado.
 
