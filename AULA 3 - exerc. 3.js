@@ -5,3 +5,4 @@ if(pontuação >= 100) {
 } else {
     alert('Não foi dessa vez. Tente novamente para ganhar.');
 }
+// dia 24 de setembro de 2025
