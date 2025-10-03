@@ -4,5 +4,32 @@ while (contador <= 10) {
     console.log("Número:" + contador);
     contador++;
 }
+----------------------------------------------------------------------------
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <title>Contagem regressiva</title>
+</head>
+<body>
+  <h1>Contagem de 0 até 10</h1>                                                                       //ATUALIZAR//
+  <div id="resultado"></div>
+
+  <script>
+    let contador = 10;
+    let saida = "";
+
+    while (contador <= 10) {
+      saida += "Número: " + contador + "<br>";
+      contador--;
+    }
+
+    document.getElementById("resultado").innerHTML = saida;
+  </script>
+</body>
+</html>
+------------------------------------------------------------------------------
 
 Math.random() * 1/100/10000 {...}
+
+
