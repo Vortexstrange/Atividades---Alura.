@@ -33,3 +33,4 @@ while (contador <= 10) {
 Math.random() * 1/100/10000 {...}
 
 parseInt(Math.random() * 10 + 1)
+// hoje comecei outro metodo, nomeado como "funções e listas"
